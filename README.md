@@ -1,4 +1,4 @@
-# Movie Review Full Stack App
+# A Movie Full Stack App
 
 ## Getting Started
 
